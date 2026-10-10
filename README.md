@@ -4,7 +4,7 @@ A lightweight, local **Model Context Protocol (MCP)** server built with Python a
 
 ---
 
-## 📖 New to MCP? Start Here!
+
 
 ### What is the Model Context Protocol (MCP)?
 Think of MCP like a **USB port for AI**. 
